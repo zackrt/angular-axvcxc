@@ -4,3 +4,5 @@
 
 
 added code
+
+components are connected
