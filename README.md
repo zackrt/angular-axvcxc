@@ -6,3 +6,5 @@
 added code
 
 components are connected
+
+update jan 24
